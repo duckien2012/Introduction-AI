@@ -1,0 +1,20 @@
+husband(prince_Charles,X).                   (Prince Charles is the husband of whom?).
+father(X,princess_Anne).                     (Who is princess Anne’s father?)
+grandmother(princess_Anne,isla_Phillips).    (Is Isla Phillips’s grandmother  princess Anne?)
+sibling(prince_George,princess_Charlotte).   (is prince George and princess Charlotte that is sibling?)
+niece(mia_Grace_Tindall,X).                  ( mia Grace Tindall is the niece of whom?).
+grandson(prince_George,prince_Charles).      (Is prince George prince Charles’s grandson?)
+aunt(zara_Phillips,savannah_Phillips).       (Is Zara Phillips is the aunt of Savannah Phillips?).
+grandson(X,prince_Phillip).                  (Who is Prince Phillip's grandson?)
+wife(zara_Phillips,prince_William).          (is Zara Phillips Prince William's wife?)
+grandchild(peter_Phillips,X).                (who is peter Phillips’s grandchild?).
+uncle(prince_Edward,X).                      (Who calls Prince Edward as uncle?).
+grandparent(princess_Diana,X).               (who is queen Princess Diana’s grandparent?).
+granddaughter(savannah_Phillips,X).          (Savannah Phillips is granddaughter of whom?).
+brother(prince_Harry,X).                     (Who is Prince Harry brother?).
+child(X,prince_Edward).                      (who is prince Edward’s child?).
+sister(isla_Phillips,X).                     (Who is Isla Phillips's sister?).
+niece(zara_Phillips,prince_Beatrice).        (Is Zara Phillips  the niece of Prince Beatrice?).
+mother(princess_Anne,princess_Beatrice).     (Is Princess Anne princess Beatrice’s mother?).
+father(mike_Tindall,kate_Middleton)           (Is Mike Tindall Kate MiddleTon's father?)
+wife(queen_Elizabeth_II, mia_Grace_Tindall).  (Is Queen Elizabeth the wife of Mia Grace Tindall?)

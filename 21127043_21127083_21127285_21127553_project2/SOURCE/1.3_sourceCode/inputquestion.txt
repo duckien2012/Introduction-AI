@@ -1,0 +1,20 @@
+husband(prince_charles,X).                   
+father(X,princess_anne).                     
+grandmother(princess_anne,isla_phillips).    
+sibling(prince_george,princess_charlotte).   
+niece(mia_grace_tindall,X).      
+grandson(prince_george,prince_charles).
+aunt(zara_phillips,savannah_phillips). 
+grandson(X,prince_phillip).            
+wife(X,prince_harry).                  
+grandchild(peter_phillips,X).          
+uncle(prince_edward,X).                
+grandparent(princess_diana,X).         
+granddaughter(savannah_phillips,X).    
+brother(prince_harry,x).               
+child(X,prince_edward).                
+sister(isla_phillips,X).               
+nephew(zara_phillips,princess_beatrice). 
+mother(princess_anne,princess_beatrice).
+father(x,kate_middleton)                
+wife(queen_Elizabeth_II, mia_grace_tindall)      

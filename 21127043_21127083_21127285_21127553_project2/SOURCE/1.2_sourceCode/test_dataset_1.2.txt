@@ -1,0 +1,43 @@
+1/ Sasuke có bạch nhãn không ?
+Syntax: whiteeyes(sasuke_uchiha).
+2/ Naruto có mồ côi không ?
+Syntax: orphanage(naruto_uzumaki).
+3/ Kaguya có phải lục đạo tiên nhân không ?
+Syntax:lucdaotiennhan(kaguya).
+4/ Cháu trai của Uchiha Fukagu là ai ?
+Syntax: nephew(X,fugaku_uchiha).
+5/ Itachi có sharingan hay không ? 
+Điều kiện để có sharinga: ám sát người thân, thuộc dòng họ Uchiha.
+Syntax: sharingan(itachi_uchiha,shisui_uchiha,itachi).
+6/ Minato có phải chồng của Uzumaki Kushina không ?
+Syntax: husband(minato_namikaze,kushina_uzumaki).
+7/ Ba của Sasuke là ai ?
+Syntax: father(X,sasuke_uchiha).
+8/ Mẹ của Itachi là ai ?
+Syntax: mother(X,itachi_uchiha).
+9/ Itachi có phải anh trai của Sasuke? 
+Syntax:  brother(itachi_uchiha,sasuke_uchiha).
+10/ Ba của sarada là ai ?
+Syntax: father(X,sarada_uchiha).
+11/Anh em họ Uchiha Itachi có những ai?
+Syntax: cousin(X, itachi_uchiha).
+12/ Ai là cậu của Sarada?
+Syntax: uncle(X,sarada_uchiha).
+13/ Mợ/Dì của Uchiha Shisui ? 
+Syntax:  aunt(X,shisui_uchiha).
+14/ Chồng của Uzumaki Kushina là ai ? 
+Syntax: husband(X,kushina_uzumaki).
+15/ Cháu trai của Uchiha Kagami là ai ?
+Syntax: nephew(X,kagami_uchiha).
+16/ Con rể của Hyuga Hiashi là ai ? 
+Syntax: conre(X,hiashi_hyuga).
+17/ Con dâu của Uzumaki Kushina là ai ? 
+Syntax: condau(X,kushina_uzumaki).
+18/ Ông nội của Uzumaki Boruto là ai ? 
+Syntax: husgrandpa(X,boruto_uzumaki).
+19/ Bà nội của Uzumaki Himawari ? 
+Syntax:  husgrandma(X,himawari_uzumaki).
+20/ Con trai của Hyuga Hizashi là ai ? 
+Syntax: son(X,hizashi_hyuga).
+
+	
